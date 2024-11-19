@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Botón para ir a otra actividad -->
+    <item
+        android:id="@+id/toolbar"
+        android:icon="@drawable/halfmoon_icon"
+        android:title="Ir" />
+</menu>

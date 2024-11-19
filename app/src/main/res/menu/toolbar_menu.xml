@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Elemento del menú para ir a otra actividad -->
+    <item
+        android:id="@+id/action_go_to_activity"
+        android:title="Ir a otra actividad"
+        android:icon="@drawable/halfmoon_icon"
+        app:showAsAction="always" />
+</menu>
